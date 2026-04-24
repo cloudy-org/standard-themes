@@ -6,7 +6,7 @@
 
 </div>
 
-> [!WARN]
+> [!WARNING]
 > Theming is experimental.
 
 This repo is where only the standard (or basic) cloudy-org themes lie. If you want more personalized themes, make your own or check out community made themes.
