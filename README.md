@@ -15,9 +15,9 @@ This repo is where only the standard (or basic) cloudy-org themes lie. If you wa
 Below are some previews.
 
 ### `rubber-ducky`
-<img width="600px" src="./docs/assets/rubber_ducky.png">
+<img width="750px" src="./docs/assets/rubber_ducky.png">
 
 ### `red`
-<img width="600px" src="./docs/assets/red.png">
+<img width="750px" src="./docs/assets/red.png">
 
-<img width="600px" src="./docs/assets/red_wii_mini.png">
+<img width="750px" src="./docs/assets/red_wii_mini.png">
