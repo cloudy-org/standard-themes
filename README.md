@@ -6,7 +6,7 @@
 
 </div>
 
-> [!WARN]
+> [!WARNING]
 > Theming is experimental.
 
 This repo is where only the standard (or basic) cloudy-org themes lie. If you want more personalized themes, make your own or check out community made themes.
@@ -15,9 +15,9 @@ This repo is where only the standard (or basic) cloudy-org themes lie. If you wa
 Below are some previews.
 
 ### `rubber-ducky`
-<img width="600px" src="./.github/assets/rubber_ducky.png">
+<img width="750px" src="./.github/assets/rubber_ducky.png">
 
 ### `red`
-<img width="600px" src="./.github/assets/red.png">
+<img width="750px" src="./.github/assets/red.png">
 
-<img width="600px" src="./.github/assets/red_wii_mini.png">
+<img width="750px" src="./.github/assets/red_wii_mini.png">
