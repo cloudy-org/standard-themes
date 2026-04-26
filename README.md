@@ -17,7 +17,7 @@ Below are some previews.
 ### `rubber-ducky`
 <img width="750px" src="./.github/assets/rubber_ducky.png">
 
-### `red`
-<img width="750px" src="./.github/assets/red.png">
+### `dark-red`
+<img width="750px" src="./.github/assets/dark_red.png">
 
-<img width="750px" src="./.github/assets/red_wii_mini.png">
+<img width="750px" src="./.github/assets/dark_red_wii_mini.png">

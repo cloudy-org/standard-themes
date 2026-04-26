@@ -1,0 +1,11 @@
+version = 1
+dark_mode = true
+
+[metadata]
+name = "Dark Red"
+
+[pallet]
+primary = "#120000"
+interactive = "#910606"
+surface = "#62010b"
+accent = "#ff2200"
