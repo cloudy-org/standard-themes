@@ -1,0 +1,12 @@
+version = 1
+dark_mode = false
+
+[metadata]
+name = "Pink"
+
+[pallet]
+primary = "#ffd7f0"
+interactive = "#ff6bb080"
+surface = "#ffb7b7"
+text = "#362a2a"
+accent = "#ff6bb0"
