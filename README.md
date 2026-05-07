@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🎨 themes
+  # 🎨 standard-themes
 
   <sub>The **official** and **standard** cloudy-org themes.</sub>
 
