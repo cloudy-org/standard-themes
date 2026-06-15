@@ -4,7 +4,7 @@ dark_mode = false
 [metadata]
 name = "Pink"
 
-[pallet]
+[palette]
 primary = "#ffd7f0"
 interactive = "#ff6bb080"
 surface = "#ffb7b7"

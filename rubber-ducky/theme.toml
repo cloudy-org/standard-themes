@@ -5,7 +5,7 @@ dark_mode = false
 [metadata]
 name = "Rubber Ducky"
 
-[pallet]
+[palette]
 primary = "#FFFDF5"
 interactive = "#FFE8A3"
 surface = "#FFD7BA"
